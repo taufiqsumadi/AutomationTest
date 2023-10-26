@@ -12,6 +12,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import java.util.concurrent.TimeUnit;
 
 public class productDetail {
+    //taufiqsumadi
     WebDriver driver;
     @Given("users can see the available products")
     public void usersCanSeeTheAvailableProducts() throws InterruptedException{
